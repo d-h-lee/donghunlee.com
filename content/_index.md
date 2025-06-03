@@ -16,8 +16,14 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: My CV
+        text: CV
         url: 'https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing'
+      button:
+        text: Research
+        url: 'projects/'
+      button:
+        text: Teaching
+        url: 'teaching/'
     design:
       css_class: dark
       background:

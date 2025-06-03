@@ -29,6 +29,7 @@ links:
 # url_pdf: 'lee-powell-BCQ-2019-TAC.pdf'
 
 tags:
+- IEEE TNNLS
 - Deep learning
 - Theory
 

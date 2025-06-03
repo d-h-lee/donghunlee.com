@@ -189,10 +189,8 @@ I have been leading [AIML@K](https://aiml-k.github.io) since 2020, with the goal
 
 <!-- 연구분야/주제 관심사 소개 -->
 My research area covers both theoretical and practical sides of artificial intelligence.  
-<!-- includes learning to make wise decisions under uncertainty, efficiency of machine learning algorithms, explainable and verifiable artificial intelligence.  -->
 I believe that research with solid ties to applications with practical impact is as important as research in abstract setting with high generalizability. 
 
-
 <!-- 그 외의 것/trivia -->
-My Ph.D. started in 2009 and ended in 2019: in the midst of my Ph.D. decade I also worked as a (senior) software engineer at Samsung Electronics. Meanwhile, I have been putting efforts into public outreaches regarding significant events and impactful findings in my field of research and interest, such as "Dissecting AlphaGo" (알파고 해부하기) series. 
-Additional details can be found in my [curriculum vitae](https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing).
+<!-- My Ph.D. started in 2009 and ended in 2019: in the midst of my Ph.D. decade I also worked as a (senior) software engineer at Samsung Electronics. Meanwhile, I have been putting efforts into public outreaches regarding significant events and impactful findings in my field of research and interest, such as "Dissecting AlphaGo" (알파고 해부하기) series. 
+Additional details can be found in my [curriculum vitae](https://docs.google.com/document/d/1QZI5EFBZ3Xsw4TMAHOI6sB7T_JsBC7y4UUIAGhU-sXo/edit?usp=sharing). -->
