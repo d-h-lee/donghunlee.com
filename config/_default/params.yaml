@@ -33,11 +33,11 @@ header:
     blox: "navbar"
     fixed_to_top: true
     show_search: true
-    show_theme_chooser: true
+    show_theme_chooser: false
     highlight_active_link: true
     logo:
-      text: ""
-      # Logo filename in `assets/media/` folder
+      # text: ""
+      # Logo filename in `assets/` folder
       filename: "logo.png"
 
 # Site footer
