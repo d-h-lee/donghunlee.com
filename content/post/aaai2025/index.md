@@ -39,4 +39,4 @@ All of this is done using a clever method inspired by a 1990s approach called th
 
 {{< /spoiler >}}
 
-{{< cta cta_text="Go straight to the paper" cta_link="publication/2025aaai-cha-lee/" cta_new_tab="false" >}}
+Click to [go straight to the paper]({{< relref "/publication/2025aaai-cha-lee" >}}). 
