@@ -55,8 +55,8 @@ interests:
 education:
   - area: Ph.D. in Computer Science
     institution: Princeton University
-    date_start: 2016-09
-    date_end: 2019-06
+    date_start: 2016-09-01
+    date_end: 2019-06-01
     summary: |
       Supervised by Professor [Warren B. Powell](https://castle.princeton.edu/biography/).
     button:
@@ -64,8 +64,8 @@ education:
       url: 'https://example.com'
   - area: M.S. in Computational Biology
     institution: Carnegie Mellon University
-    date_start: 2007-09
-    date_end: 2009-06
+    date_start: 2007-09-01
+    date_end: 2009-06-01
     # summary: |
     #   GPA: 3.8/4.0
 
@@ -75,8 +75,8 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.A. in Biochemistry
     institution: Columbia University in the City of New York
-    date_start: 2003-09
-    date_end: 2007-06
+    date_start: 2003-09-01
+    date_end: 2007-06-01
     # summary: |
     #   GPA: 3.4/4.0
       
@@ -89,7 +89,7 @@ work:
     company_name: Korea University
     company_url: 'https://www.korea.edu/'
     company_logo: ''
-    date_start: 2020-03
+    date_start: 2020-03-01
     date_end: ''
     summary: |
       Joint appointments:
@@ -100,8 +100,8 @@ work:
     company_name: Samsung Electronics
     company_url: 'https://www.samsung.com/sec/'
     company_logo: ''
-    date_start: 2011-11
-    date_end: 2016-05
+    date_start: 2011-11-01
+    date_end: 2016-05-01
     # summary: |
     #   Responsibilities include:
     #   - Migrated infrastructure to a new data center
