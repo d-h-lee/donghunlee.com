@@ -47,19 +47,11 @@ profiles:
     url: https://orcid.org/0000-0002-7941-2395
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Theory of Artificial Intelligence and Machine Learning
+  - (Sub)optimality in Learning under Uncertainty
+  - Sequential Decision Making by Agents
+  - Making Real Impact with Technology 
 
-    - course: Ph.D. in Computer Science
-      institution: Princeton University
-      year: 2019
-    - course: M.S. in Computational Biology
-      institution: Carnegie Mellon University
-      year: 2009
-    - course: B.A. in Biochemistry
-      institution: Columbia University in the City of New York
-      year: 2007
 education:
   - area: Ph.D. in Computer Science
     institution: Princeton University
