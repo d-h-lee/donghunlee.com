@@ -41,7 +41,7 @@ links:
 #   - earthscience
 #   - theory
 
-tags: ['ICML2025', 'Seismology', 'Earth Science']
+tags: ['ICML', 'Seismology', 'Earth Science']
 
 featured: true
 

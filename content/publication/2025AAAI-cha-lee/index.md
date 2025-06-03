@@ -37,8 +37,8 @@ image:
   focal_point: ""
   preview_only: false
 
-projects:
-  - theory
+# projects:
+#   - theory
 
 tags: ['AAAI', 'Causal Inference','Active Learning','Gaussian Process']
 
