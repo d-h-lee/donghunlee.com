@@ -13,15 +13,15 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'Donghun Lee'
+    description: 'Donghun Lee'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
     plausible: ''
     fathom: ''
-    pirsch: ''
+    pirsch: 'KQuRcB8S269F8eNtdOEoLgr7VdeVbkGV'
   verification:
     google: ''
     baidu: ''
@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Donghun Lee"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Donghun Lee - licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -55,6 +55,14 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
+    
+# what would happen if I do this?
+i_am_a_sponsor: true
+
+# are there only two power-ups?
+power_ups:
+  hide_generator: true
+  hide_published_with: true
