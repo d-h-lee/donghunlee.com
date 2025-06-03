@@ -34,8 +34,11 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
+    highlight_active_link: true
     logo:
-      text: "Donghun Lee"
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "logo.png"
 
 # Site footer
 footer:
