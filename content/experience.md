@@ -1,6 +1,6 @@
 ---
-title: 'Experience'
-date: 2023-10-24
+title: 'Bio'
+date: 2020-03-01
 type: landing
 
 design:

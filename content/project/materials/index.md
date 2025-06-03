@@ -1,8 +1,9 @@
 ---
-title: Material Science and AI
+title: Material Science with AI
 date: 2024-03-01
 # external_link: https://github.com/pytorch/pytorch
 tags:
+  - Chemistry
   - Epoxy
   - Polymer
   # - Optimal Learning

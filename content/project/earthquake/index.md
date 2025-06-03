@@ -1,8 +1,9 @@
 ---
-title: AI on Seismology
+title: AI + Seismology
 date: 2023-04-01
 # external_link: https://github.com/pandas-dev/pandas
 tags:
+  - 'Earth Science'
   - Earthquake
   - Shockwave
   # - Inverse Problems
