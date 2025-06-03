@@ -29,10 +29,10 @@ links:
   url: 'papers/HEGGS_ICML_2025_camera_ready.pdf'
 
 projects:
-  - earthquake
-  - ai
+  - earthscience
+  - theory
 
-tags: ['ICML2025']
+tags: ['ICML2025', 'Seismology', 'Earth Science']
 
 featured: true
 

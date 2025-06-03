@@ -29,7 +29,7 @@ sections:
             brightness: 1.0
           size: cover
           position: center
-          parallax: false
+          parallax: true
 
   - block: collection
     id: news
@@ -57,9 +57,9 @@ sections:
     design:
       # Choose a layout view
       view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      # Customize the section spacing. Order is top, right, bottom, left.
+      # spacing:
+      #   padding: [0, 0, 0, 0]
 
   # - block: markdown
   #   content:
@@ -85,6 +85,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+
   - block: collection
     content:
       title: Recent Publications
@@ -96,16 +97,17 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
 
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
