@@ -85,6 +85,8 @@ sections:
           - event
           - post
         featured_only: true
+      archive:
+        enable: false # turns off "See All Publication" button 
     design:
       view: article-grid
       columns: 3
