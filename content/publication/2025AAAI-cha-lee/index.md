@@ -1,11 +1,11 @@
 ---
 title: 'ABC3: Active Bayesian Causal Inference with Cohn Criteria in Randomized Experiments'
 authors:
-- taehuncha
+- Taehun Cha
 - admin
 
 date: '2025-03-01'
-publishDate: '2024-12-10T00:00:00.000001Z'
+publishDate: '2025-03-02T00:00:00.000001Z'
 publication_types:
 - paper-conference
 publication: '*In The 39th Annual AAAI Conference on Artificial Intelligence*'
@@ -30,10 +30,10 @@ image:
   focal_point: ""
   preview_only: false
 
-tags: ['Causal Inference','Active Learning','Gaussian Process']
-
 projects:
   - ai
+
+tags: ['AAAI', 'Causal Inference','Active Learning','Gaussian Process']
 
 featured: true
 ---

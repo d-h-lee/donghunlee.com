@@ -12,7 +12,7 @@ date: '2025-05-01'
 publishDate: '2025-05-25T00:00:00.000001Z'
 publication_types:
 - paper-conference
-publication: '*In the International Conference on Machine Learning*'
+publication: '*In the 42nd International Conference on Machine Learning*'
 publication_short: 'In *ICML 2025*'
 
 abstract: Shock waves caused by earthquakes can be devastating. Generating realistic earthquake-caused ground motion waveforms help reducing losses in lives and properties, yet generative models for the task tend to generate subpar waveforms. We present High-fidelity Earthquake Groundmotion Generation System (HEGGS) and demonstrate its superior performance using earthquakes from North American, East Asian, and European regions. HEGGS exploits the intrinsic characteristics of earthquake dataset and learns the waveforms using an end-to-end differentiable generator containing conditional latent diffusion model and hi-fidelity waveform construction model. We show the learning efficiency of HEGGS by training it on a single GPU machine and validate its performance using earthquake databases from North America, East Asia, and Europe, using diverse criteria from waveform generation tasks and seismology. Once trained, HEGGS can generate three dimensional E-N-Z seismic waveforms with accurate P/S phase arrivals, envelope correlation, signal-to-noise ratio, GMPE analysis, frequency content analysis, and section plot analysis.
@@ -32,7 +32,7 @@ projects:
   - earthquake
   - ai
 
-tags: ['paper']
+tags: ['ICML2025']
 
 featured: true
 
