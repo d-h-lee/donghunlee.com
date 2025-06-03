@@ -22,15 +22,24 @@ image:
   focal_point: ""
   preview_only: false
 
+url_pdf: 'papers/HEGGS_ICML_2025_camera_ready.pdf'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+doi: ''
+
 links:
 - name: ICML
   url: 'https://icml.cc/virtual/2025/poster/45003'
-- name: PDF
-  url: 'papers/HEGGS_ICML_2025_camera_ready.pdf'
 
-projects:
-  - earthscience
-  - theory
+# projects:
+#   - earthscience
+#   - theory
 
 tags: ['ICML2025', 'Seismology', 'Earth Science']
 
