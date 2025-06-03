@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: koreauniversity # see https://docs.hugoblox.com/getting-started/customize/#appearance
 
 # SEO
 marketing:
@@ -58,7 +58,7 @@ features:
     enable: true
   privacy_pack:
     enable: false
-    
+
 # what would happen if I do this?
 i_am_a_sponsor: true
 

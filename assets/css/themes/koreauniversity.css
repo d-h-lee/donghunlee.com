@@ -1,0 +1,15 @@
+/* Custom KU color theme by Donghun Lee. https://www.htmlcsscolor.com/hex/7C1A00 */
+:root {
+    --color-primary-50: 228 207 202;
+    --color-primary-100: 212 180 172;
+    --color-primary-200: 188 138 125;
+    --color-primary-300: 171 109 92;
+    --color-primary-400: 152 72 51;
+    --color-primary-500: 124 26 0;
+    --color-primary-600: 99 21 0;
+    --color-primary-700: 79 17 0;
+    --color-primary-800: 63 14 0;
+    --color-primary-900: 50 11 0;
+    --color-primary-950: 40 9 0;
+  }
+  
