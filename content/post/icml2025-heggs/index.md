@@ -52,5 +52,3 @@ HEGGS could become a vital tool in saving lives and protecting communities aroun
 {{< /spoiler >}}
 
 Click to [know more about the research]({{< relref "/publication/2025ICML-jung-lee-jung-kim-jung-lee" >}}).
-
- <!-- {{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" cta_alt_text="Alternative action" cta_alt_link="/" cta_alt_new_tab="false" >}} -->
