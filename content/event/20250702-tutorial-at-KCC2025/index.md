@@ -18,7 +18,7 @@ abstract: 'Survey the fundamentals of GP-based Bayesian Optimization and some di
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-07-02T10:00:00+09:00'
-date_end: '22025-07-02T12:00:00+09:00'
+date_end: '2025-07-02T12:00:00+09:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
